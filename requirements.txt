@@ -1,0 +1,11 @@
+librosa
+numpy
+pandas
+soundfile
+wave
+scikit-learn
+tqdm
+matplotlib
+pyaudio
+tensorflow
+flask
